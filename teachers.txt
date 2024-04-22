@@ -1,0 +1,2 @@
+TeacherID UserName UserType
+1 asdas Teacher

@@ -1,0 +1,2 @@
+ManagerID DeptID UserName
+1 0 yut
